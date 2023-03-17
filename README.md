@@ -5,8 +5,8 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![1 (2)](https://user-images.githubusercontent.com/77179768/225895143-e353d46f-2d18-4b8e-9cb8-5e46007c1b75.png)
+![2 (1)](https://user-images.githubusercontent.com/77179768/225895168-4467175a-185d-4b43-86de-7b90c7efd640.png)
 
 ## Technologies
 
